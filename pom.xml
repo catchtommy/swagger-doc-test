@@ -81,7 +81,7 @@
             </executions>
             <configuration>
                 <apiDocsUrl>http://localhost:8080/v3/api-docs</apiDocsUrl>
-                <outputFileName>sample.yaml</outputFileName>
+                <outputFileName>swagger.yaml</outputFileName>
                 <outputDir>swagger-doc</outputDir>
             </configuration>
             </plugin>
