@@ -76,10 +76,7 @@
               }
             }
           }
-        },
-        "security" : [ {
-          "BasicAuth" : [ ]
-        } ]
+        }
       }
     },
     "/sample/{id}" : {
@@ -150,10 +147,7 @@
               }
             }
           }
-        },
-        "security" : [ {
-          "BasicAuth" : [ ]
-        } ]
+        }
       }
     }
   },
