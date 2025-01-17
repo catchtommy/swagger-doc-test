@@ -3,6 +3,7 @@ package com.sample.poc;
 public class SampleObj {
     private String name;
     private String age;
+    private String address;
 
     public String getName() {
         return name;
@@ -18,5 +19,13 @@ public class SampleObj {
 
     public void setAge(String age) {
         this.age = age;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 }
