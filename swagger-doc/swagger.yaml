@@ -1,0 +1,10 @@
+openapi: 3.0.0
+info:
+  version: v1
+  title: ''
+  description: ''
+paths: {}
+servers:
+  # Added by API Auto Mocking Plugin
+  - description: SwaggerHub API Auto Mocking
+    url: https://virtserver.swaggerhub.com/TOMTHOMAS2/sample2/v1
