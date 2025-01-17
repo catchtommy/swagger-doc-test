@@ -37,9 +37,6 @@ public class MyController {
                             @Content(mediaType = MediaType.APPLICATION_JSON_VALUE,
                                     schema = @Schema(implementation = ErrorResponse.class))
                     })
-            },
-            security = {
-                    @SecurityRequirement(name = "BasicAuth")
             }
     )
     @GetMapping("/sample/{id}")
@@ -75,9 +72,6 @@ public class MyController {
                             @Content(mediaType = MediaType.APPLICATION_JSON_VALUE,
                                     schema = @Schema(implementation = ErrorResponse.class))
                     })
-            },
-            security = {
-                    @SecurityRequirement(name = "BasicAuth")
             }
     )
     @PostMapping("/sample")
