@@ -1,1 +1,0 @@
-Orchestrator in monolith for customer/view-customer (stub agent, attempt 4)
