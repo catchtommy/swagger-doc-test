@@ -1,1 +1,1 @@
-Module in monolith for customer/view-customer (stub agent, attempt 5)
+Module in monolith for customer/view-customer (stub agent, attempt 6)
